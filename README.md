@@ -1,3 +1,3 @@
 Hello World!
-Git Really?!
+Git Trying to commit a conflict!
 Editing here also
