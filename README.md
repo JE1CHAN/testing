@@ -1,3 +1,3 @@
 Hello World!
-Git Trying to commit a conflict!
+Git MERGING!
 Editing here also
