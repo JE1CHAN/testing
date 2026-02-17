@@ -1,3 +1,3 @@
 Hello World!
-Git Really?!
+Git Ready for MERGING!
 Editing here also
